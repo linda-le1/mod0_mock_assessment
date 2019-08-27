@@ -1,0 +1,19 @@
+Object: JadePlant
+color: "green"
+species: "crassula ovata"
+currentPlantsOwned 1
+flowering true
+location: "outdoor patio"
+height 1
+system_of_measurement 'ft'
+purchasedFrom: "O'Toole's Gardening"
+
+Object PonderosaPine
+color: "green"
+species: "pinus ponderosa"
+currentPlantsOwned 1
+flowering false
+location: "right corner of backyard"
+height 4
+system_of_measurement 'ft'
+purchasedFrom: "O'Toole's Gardening"
