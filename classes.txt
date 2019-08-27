@@ -1,0 +1,13 @@
+classes: "plants"
+color: "string"
+species: "string"
+currentPlantsOwned integer
+flowering boolean
+location: "string"
+height float
+system_of_measurement "string"
+purchasedFrom: "string"
+
+Methods:
+buyPlant: currentPlantsOwned = currentPlantsOwned + plantsPurchasedToday
+movePlant: location = "front yard"
